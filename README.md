@@ -100,5 +100,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Dread-9/Dread-9/output/snake.svg" alt="Snake animation" />
-
